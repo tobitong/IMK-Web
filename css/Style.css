@@ -1,0 +1,51 @@
+body {
+    background-color: #faf2f2;
+    font-family: sans-serif;
+    color: #7d5a5a;
+}
+
+table {
+    border: 2px solid black; 
+    border-collapse: collapse; 
+    width:30%;
+    background-color: #f3e1e1;
+    align-items: center;
+}
+
+th {
+    background-color: #f1d1d1;
+}
+
+th, td {
+    border: 2px solid black; 
+    padding:10px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dashed;
+    border-width: 5px;
+}
+
+#Pendidikan {
+    width: 25%;
+}
+
+#captionBiodata {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.noBorder {
+    border: none;
+    background-color: #faf2f2;
+}
+
+.textCenter {
+    text-align: center;
+}

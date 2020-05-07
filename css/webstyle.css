@@ -1,0 +1,150 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #0779e4;
+  font-size: 2em;
+  line-height: 1.2;
+  background-color: #eff3c6;
+}
+
+.linkatas:hover {
+  float: right;
+  margin-top: 10px;
+  margin-left: 15px;
+  font-size: 1.5rem;
+  padding: 5px;
+  background-color: #eff3c6;
+}
+
+.linkatas {
+  float: right;
+  margin-top: 10px;
+  margin-left: 15px;
+  font-size: 1.5rem;
+  padding: 5px;
+}
+
+a:hover {
+  font-size: 1.5rem;
+  padding: 5px;
+  background-color: #eff3c6;
+}
+
+a {
+  font-size: 1.5rem;
+  padding: 5px;
+}
+
+.menu {
+  background-color: #77d8d8;
+  padding: 20px;
+  padding-bottom: 0;
+}
+
+.top {
+  background-color: #77d8d8;
+  padding-top: 150px;
+}
+
+.mid {
+  padding: 20px;
+  margin-bottom: 90px;
+}
+
+.bot {
+  margin-top: 90px;
+}
+
+.foot {
+  padding: 50px;
+  background-color: azure;
+}
+
+.pendidikan {
+  text-align: left;
+  width: 60%;
+  margin: 0 auto 50px;
+  line-height: 1;
+}
+
+.pengalaman {
+  text-align: left;
+  width: 60%;
+  margin: 0 auto 50px;
+  line-height: 1;
+}
+
+.foto {
+  background-color: #eff3c6;
+  padding: 5px;
+  border-radius: 50%;
+  width: 140px;
+  height: 140px;
+  float: left;
+  margin-left: 50px;
+}
+
+.foto-bawah {
+  background-color: #4cbbb9;
+  padding: 5px;
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  margin-bottom: 15px;
+}
+
+.isi {
+  font-size: 1.5rem
+}
+
+.perkenalan {
+  font-size: 1.5rem;
+  width: 50%;
+  margin: 0 auto 0;
+}
+
+.graduate {
+  background-color: #4cbbb9;
+  padding: 5px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 20px;
+}
+
+.organisasi {
+  background-color: #4cbbb9;
+  padding: 5px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  float: right;
+  margin-right: 20px;
+}
+
+.judul {
+  width: 50%;
+  margin: 0 auto 10px;
+}
+
+h1 {
+  margin: 0 auto 0;
+  font-family: 'Pacifico', cursive;
+  font-size: 5rem;
+}
+
+h2 {
+  margin: 0 auto 0;
+}
+
+.menu2 {
+  width: 50%;
+  margin: 0 auto 0;
+}
+
+.menu3 {
+  width: 50%;
+  margin: 0 auto 0;
+}
